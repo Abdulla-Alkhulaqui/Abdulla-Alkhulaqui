@@ -14,11 +14,15 @@
 - 🌱 I’m passionate about full-stack web development and Quality Assurance.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, QA, and Pool 🎱.
+
+  
+<p>A highly motivated Software QA Engineer with over 3 years of experience in software quality assurance and testing.
+Proven track record in automating test processes, reducing release testing time, and improving product reliability.
+Skilled in Python, Selenium, Robot Framework, and various CI/CD tools, with a strong focus on efficiency and team
+collaboration. Adept at working in agile environments and collaborating with cross-functional teams to deliver
+high-quality software products. Fluent in English, with basic proficiency in German</p>
+
 <!--
-<p>With my degree in mathematics and experience in teaching, I was always looking for solutions to help students learn more effectively. Throughout teaching, I saw students struggle with learning because the tools we had were simply not successful in bridging the educational gap for students. I felt called to pick up Software Engineering with the goal of helping students learn more efficiently and fell in love with using tech to solve problems.
-</ p>
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" width="90" height="40"/></a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
@@ -123,15 +127,11 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
   <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
 </a>
   </h2>
+
   </ br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leahthompson01&show_icons=true&theme=dark" alt="leahthompson" /> 
-</p>
-
-**I am Into ,**
-
-**Web Design ,   Responsive Design ,   and EdTech Applications**
-
 <br />
-
- -->
+-->
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-Alkhulaqui&show_icons=true&theme=dark" alt="Abdulla-Alkhulaqui" /> 
+</p>
