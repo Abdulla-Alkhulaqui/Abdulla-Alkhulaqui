@@ -12,7 +12,7 @@
 - 💬 Ask me about Websites, QA, and Pool 🎱.
 
   
-<p>A highly motivated Software QA Engineer with over 3 years of experience in software quality assurance and testing.
+<p>A highly motivated Software Engineer with over 3 years of experience in web development & software quality assurance.
 Proven track record in automating test processes, reducing release testing time, and improving product reliability.
 Skilled in Python, Selenium, Robot Framework, and various CI/CD tools, with a strong focus on efficiency and team
 collaboration. Adept at working in agile environments and collaborating with cross-functional teams to deliver
