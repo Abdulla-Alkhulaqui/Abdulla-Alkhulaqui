@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb436831-0633-48d4-8cb1-64ddb19eb86c)
+![image](https://github.com/user-attachments/assets/87d53624-5fa4-4e53-b429-43ad8626838d)
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Abdulla Al-khulaqui</h1> 
 
