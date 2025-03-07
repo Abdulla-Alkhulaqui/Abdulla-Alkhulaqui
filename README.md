@@ -5,14 +5,14 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
-- 🤓 My name's Abdulla and I live in Germany.
+- 🤓 My name is Abdulla, and I live in Germany.
 - 🔭 I’m a software engineer with a degree in computer science.
 - 🌱 I’m passionate about full-stack web development and Quality Assurance.
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Websites, QA, and Pool 🎱.
+- 💬 Ask me about Web apps, QA, and Pool 🎱.
 
   
-<p>A highly motivated Software Engineer with over 3 years of experience in web development & software quality assurance.
+<p>I am A highly motivated Software Engineer with over 3 years of experience in web development & software quality assurance.
 Proven track record in automating test processes, reducing release testing time, and improving product reliability.
 Skilled in Python, Selenium, Robot Framework, and various CI/CD tools, with a strong focus on efficiency and team
 collaboration. Adept at working in agile environments and collaborating with cross-functional teams to deliver
