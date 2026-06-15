@@ -6,17 +6,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
 - 🤓 My name is Abdulla, and I live in Germany.
-- 🔭 I’m a software engineer with a degree in computer science.
-- 🌱 I’m passionate about full-stack web development and Quality Assurance.
+- 🔭 I’m a software QA engineer with a degree in computer science.
+- 🌱 I’m passionate about Quality Assurance and full-stack web development.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web apps, QA, and Pool 🎱.
 
   
-<p>I am A highly motivated Software Engineer with over 3 years of experience in web development & software quality assurance.
-Proven track record in automating test processes, reducing release testing time, and improving product reliability.
-Skilled in Python, Selenium, Robot Framework, and various CI/CD tools, with a strong focus on efficiency and team
-collaboration. Adept at working in agile environments and collaborating with cross-functional teams to deliver
-high-quality software products. Fluent in English, with basic proficiency in German</p>
+<p>A results-driven Software QA Engineer with 5 years of experience focused on test automation, quality assurance, and validation of scalable software systems. Currently contributing to the security and reliability of cross-platform applications at ExpressVPN, serving over 7 million users. Skilled in designing and maintaining automated test frameworks, executing end-to-end and regression testing, and performing network-level validation to ensure performance and privacy standards. Proficient in Typescript, Python, Bash, Git, Docker, and CI/CD pipelines, with strong experience in agile environments and cross-functional collaboration. Fluent in English and conversational in German.</p>
 
 <!--
 <h3 align="center">Languages and Tools:</h3>
